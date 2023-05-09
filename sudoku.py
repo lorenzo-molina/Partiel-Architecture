@@ -3,3 +3,4 @@
 #  3 : Vérification si le chiffre est déja dans le bloc, sur la ligne ou sur la colonne
 #  3a : Si au moins un de ces critères est vérifié, alors renvoyer le joueur à l'input en lui indiquant que le placement n'est pas possible sur cette case
 #  3b : Sinon placer le chiffre dans la grille
+#  4 : Relancer un input si la grille n'est pas pleine
